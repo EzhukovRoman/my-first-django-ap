@@ -7,4 +7,3 @@ db.sqlite3
 .DS_Store
 /.vscode
 token.txt
-/mysite/secretkey.txt
